@@ -1,6 +1,7 @@
 # S3D-VS
 
-Learning to explore saliency for stereoscopic videos
+## Learning to explore saliency for stereoscopic videos
 
 
-Getting data
+
+### Getting data
