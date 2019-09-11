@@ -5,5 +5,5 @@
 
 
 ## Run demo
-### For training
-### For testing
+* For training
+* For testing
